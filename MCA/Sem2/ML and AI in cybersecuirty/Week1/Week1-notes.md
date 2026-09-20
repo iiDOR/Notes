@@ -1,8 +1,8 @@
 
-	## 1.4 How do Computers Learn? 
+## 1.4 How do Computers Learn? 
 > **What is Learning** : The acquisition of knowledge or skills **through study, experience or being taught.**
 
-	### Deductive vs Inductive Learning
+### Deductive vs Inductive Learning
 
 1. **Deductive Learning** : 
 	- You give the **Algorithms 2 Things**:

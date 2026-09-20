@@ -1,4 +1,4 @@
-## 📌 Data Structures
+## 📌 Data Structures 
 
 > A **data structure** is a way of organizing, storing, and managing data so that it can be accessed and modified efficiently.
 

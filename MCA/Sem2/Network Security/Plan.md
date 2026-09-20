@@ -28,3 +28,11 @@
 **~={green}16 - Half=~** 9
 
 **~={yellow}9/14=~**
+
+Good afternoon mam,
+
+Not sure how to tell to you this i might get *failed* in Network.
+
+Because, whatever i studied didn't come "UNLUCKY ME" week 16, 15, 14, 9, 8, 2 nothing from those weeks in the 5 marks section  🥲 i felt the entire 5mark section was based on tcp flow control, crypto, data link layer, everything.
+
+and Mam plz don't take what i said now for real 😊, it is wat i felt when i gave the exam.

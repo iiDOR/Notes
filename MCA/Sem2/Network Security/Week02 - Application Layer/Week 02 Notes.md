@@ -84,13 +84,13 @@
 |     (Method + URL + HTTP Version)            |
 +----------------------------------------------+
 |  2. Request Headers                          |
-|     (Host, User-Agent, Accept, etc.)        |
+|     (Host, User-Agent, Accept, etc.)         |
 +----------------------------------------------+
 |  3. (Optional) Blank Line                    |
-|     (Separates headers from body)           |
+|     (Separates headers from body) **CRLF**   |
 +----------------------------------------------+
 |  4. (Optional) Request Body                  |
-|     (Data sent to the server - POST, PUT)   |
+|     (Data sent to the server - POST, PUT)    |
 +----------------------------------------------+
 ```
 ## HTTP Response status code
